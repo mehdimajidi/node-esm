@@ -1,0 +1,22 @@
+{
+  "name": "node-esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.25.1",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "glob": "^7.2.0",
+    "graphql": "^15.6.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.0.8"
+  }
+}
